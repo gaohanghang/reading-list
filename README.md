@@ -1,6 +1,5 @@
 # reading-list
 
-> 📚 读过的书，要读的书
 > todo 输入豆瓣图书链接，输出Markdown格式的读书记录
 
 
