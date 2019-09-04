@@ -5,6 +5,8 @@
 
 ### 《前方的路》(读完时间: 2019.9.4)
 
+> 技术将引领我们走向何处 🐆
+
 ![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190904234008.png)
 
 > 豆瓣链接: https://book.douban.com/subject/30234758/
